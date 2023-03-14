@@ -1,0 +1,781 @@
+[2022-06-0616:45:50] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0616:45:59] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0616:47:37] [ INFO ] [CategoriaService:39] La categoría se agregó correctamente
+[2022-06-0616:47:42] [ INFO ] [CategoriaService:52] Las categorías se listaron correctamente
+[2022-06-0616:56:33] [ INFO ] [ProductoService:31] El producto se agregó correctamente
+[2022-06-0616:59:23] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0616:59:29] [ INFO ] [ProductoService:31] El producto se agregó correctamente
+[2022-06-0617:00:57] [ INFO ] [ProductoService:31] El producto se agregó correctamente
+[2022-06-0617:06:00] [ INFO ] [ProductoService:31] El producto se agregó correctamente
+[2022-06-0617:12:30] [ INFO ] [ProductoService:36] El producto se agregó correctamente
+[2022-06-0617:12:30] [ INFO ] [ImagenService:32] La imagen se agregó correctamente
+[2022-06-0617:16:55] [ INFO ] [ProductoService:36] El producto se agregó correctamente
+[2022-06-0617:16:55] [ INFO ] [ImagenService:32] La imagen se agregó correctamente
+[2022-06-0617:18:56] [ INFO ] [ProductoService:36] El producto se agregó correctamente
+[2022-06-0617:18:56] [ INFO ] [ImagenService:32] La imagen se agregó correctamente
+[2022-06-0617:24:09] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0617:25:12] [ INFO ] [ProductoService:36] El producto se agregó correctamente
+[2022-06-0617:25:12] [ INFO ] [ImagenService:32] La imagen se agregó correctamente
+[2022-06-0617:28:42] [ INFO ] [ProductoService:46] El producto se agregó correctamente
+[2022-06-0617:28:42] [ INFO ] [ImagenService:32] La imagen se agregó correctamente
+[2022-06-0617:28:42] [ INFO ] [CaracteristicaService:31] La caracteristica se agregó correctamente
+[2022-06-0617:28:42] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una política incompleta. Todos los datos son requeridos
+[2022-06-0617:29:05] [ INFO ] [ProductoService:46] El producto se agregó correctamente
+[2022-06-0617:29:05] [ INFO ] [ImagenService:32] La imagen se agregó correctamente
+[2022-06-0617:29:05] [ INFO ] [CaracteristicaService:31] La caracteristica se agregó correctamente
+[2022-06-0617:29:05] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una política incompleta. Todos los datos son requeridos
+[2022-06-0617:30:03] [ INFO ] [ProductoService:77] Los productos se listaron correctamente
+[2022-06-0617:30:41] [ INFO ] [ProductoService:46] El producto se agregó correctamente
+[2022-06-0617:30:41] [ INFO ] [ImagenService:32] La imagen se agregó correctamente
+[2022-06-0617:30:41] [ INFO ] [CaracteristicaService:31] La caracteristica se agregó correctamente
+[2022-06-0617:30:41] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una política incompleta. Todos los datos son requeridos
+[2022-06-0618:25:46] [ INFO ] [CategoriaService:39] La categoría se agregó correctamente
+[2022-06-0618:25:59] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0618:26:02] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0618:26:06] [ INFO ] [CategoriaService:52] Las categorías se listaron correctamente
+[2022-06-0618:26:55] [ INFO ] [ProductoService:79] El producto se agregó correctamente
+[2022-06-0618:27:06] [ INFO ] [ProductoService:92] Los productos se listaron correctamente
+[2022-06-0618:58:24] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0618:58:27] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0618:58:32] [ INFO ] [CategoriaService:39] La categoría se agregó correctamente
+[2022-06-0618:58:36] [ INFO ] [CategoriaService:52] Las categorías se listaron correctamente
+[2022-06-0618:58:44] [ INFO ] [ProductoService:79] El producto se agregó correctamente
+[2022-06-0618:59:01] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-0618:59:43] [ INFO ] [ProductoService:79] El producto se agregó correctamente
+[2022-06-0618:59:55] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-0619:07:00] [ INFO ] [ProductoService:79] El producto se agregó correctamente
+[2022-06-0619:07:10] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-0619:13:46] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0619:13:49] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0619:13:53] [ INFO ] [CategoriaService:39] La categoría se agregó correctamente
+[2022-06-0619:13:56] [ INFO ] [CategoriaService:52] Las categorías se listaron correctamente
+[2022-06-0619:14:02] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:14:19] [ INFO ] [ProductoService:136] Los productos se listaron correctamente
+[2022-06-0619:18:37] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:20:23] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:20:27] [ INFO ] [ProductoService:136] Los productos se listaron correctamente
+[2022-06-0619:31:02] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:31:21] [ INFO ] [ProductoService:136] Los productos se listaron correctamente
+[2022-06-0619:36:23] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:37:19] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:42:27] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:44:29] [ INFO ] [ProductoService:90] El producto se agregó correctamente
+[2022-06-0619:44:35] [ INFO ] [ProductoService:138] Los productos se listaron correctamente
+[2022-06-0619:58:13] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0619:58:16] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0619:58:19] [ INFO ] [CategoriaService:39] La categoría se agregó correctamente
+[2022-06-0619:58:22] [ INFO ] [CategoriaService:52] Las categorías se listaron correctamente
+[2022-06-0619:58:26] [ INFO ] [ProductoService:92] El producto se agregó correctamente
+[2022-06-0619:58:37] [ INFO ] [ProductoService:138] Los productos se listaron correctamente
+[2022-06-0620:09:50] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-0620:10:01] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:10:19] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:10:46] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:10:54] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:11:06] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-0620:11:19] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:11:40] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:11:55] [ ERROR] [GlobalExceptionHandler:21] No se encontró un producto con el id 10
+[2022-06-0620:19:33] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:19:33] [ INFO ] [ProductoService:176] Se filtraron correctamente los productos de la categoría con id 1
+[2022-06-0620:19:50] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:19:50] [ INFO ] [ProductoService:157] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-0620:20:03] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0620:20:06] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0620:20:09] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0620:20:15] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:20:15] [ ERROR] [GlobalExceptionHandler:21] No se encontró ningún producto en la ciudad seleccionada
+[2022-06-0620:20:32] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-0620:20:44] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:20:44] [ INFO ] [ProductoService:157] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-0620:26:39] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-0620:28:14] [ INFO ] [CiudadService:34] La ciudad se agregó correctamente
+[2022-06-0620:28:40] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0620:29:23] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:31:08] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-0620:31:33] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:31:33] [ INFO ] [ProductoService:157] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-0620:32:17] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:34:56] [ INFO ] [ProductoService:126] Los productos se listaron correctamente
+[2022-06-0620:35:06] [ INFO ] [CategoriaService:52] Las categorías se listaron correctamente
+[2022-06-0620:37:12] [ INFO ] [CategoriaService:52] Las categorías se listaron correctamente
+[2022-06-0620:37:15] [ INFO ] [CiudadService:46] Las ciudades se listaron correctamente
+[2022-06-0620:44:50] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:45:07] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:45:24] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:46:05] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-0620:46:09] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-0620:49:32] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-0620:49:38] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-0621:00:22] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-0621:00:54] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-0621:00:54] [ INFO ] [ProductoService:186] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1015:50:50] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1015:51:02] [ INFO ] [CiudadService:35] La ciudad se agregó correctamente
+[2022-06-1015:51:05] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1015:51:10] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1015:58:01] [ INFO ] [ProductoService:81] El producto se agregó correctamente
+[2022-06-1015:58:05] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1017:27:19] [ INFO ] [CategoriaService:37] La categoría se agregó correctamente
+[2022-06-1017:27:24] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1017:30:18] [ INFO ] [CiudadService:35] La ciudad se agregó correctamente
+[2022-06-1017:30:44] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1017:37:00] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1017:37:04] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1017:37:41] [ INFO ] [ProductoService:81] El producto se agregó correctamente
+[2022-06-1017:38:04] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1017:41:48] [ INFO ] [ReservaService:40] La puntuación se agregó correctamente
+[2022-06-1017:43:30] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1017:43:35] [ INFO ] [ReservaService:40] La puntuación se agregó correctamente
+[2022-06-1017:46:56] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1017:46:59] [ INFO ] [ReservaService:38] La puntuación se agregó correctamente
+[2022-06-1017:50:37] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1017:50:40] [ INFO ] [ReservaService:38] La puntuación se agregó correctamente
+[2022-06-1017:51:09] [ INFO ] [ReservaService:51] Las puntuaciones se listaron correctamente
+[2022-06-1017:53:03] [ INFO ] [ReservaService:38] La puntuación se agregó correctamente
+[2022-06-1017:53:09] [ INFO ] [ReservaService:51] Las puntuaciones se listaron correctamente
+[2022-06-1017:53:44] [ INFO ] [ReservaService:38] La puntuación se agregó correctamente
+[2022-06-1017:53:47] [ INFO ] [ReservaService:51] Las puntuaciones se listaron correctamente
+[2022-06-1221:44:44] [ INFO ] [CiudadService:35] La ciudad se agregó correctamente
+[2022-06-1221:44:50] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1221:44:53] [ INFO ] [CategoriaService:37] La categoría se agregó correctamente
+[2022-06-1221:44:57] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1221:47:01] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1221:47:11] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1221:50:35] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1221:50:40] [ INFO ] [ProductoService:81] El producto se agregó correctamente
+[2022-06-1221:53:04] [ INFO ] [ProductoService:81] El producto se agregó correctamente
+[2022-06-1221:53:08] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1221:54:21] [ INFO ] [ProductoService:81] El producto se agregó correctamente
+[2022-06-1221:54:25] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1221:55:31] [ INFO ] [ProductoService:81] El producto se agregó correctamente
+[2022-06-1221:55:34] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1417:29:11] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1417:29:11] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1417:37:25] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1417:37:25] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1418:20:48] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1418:20:48] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1418:23:15] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1418:23:15] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1418:26:31] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1418:26:31] [ INFO ] [UserDetailsServiceImpl:49] Se creo el usuario correctamente
+[2022-06-1419:45:03] [ INFO ] [UserDetailsServiceImpl:50] Se inició sesión correctamente
+[2022-06-1419:45:03] [ INFO ] [UserDetailsServiceImpl:50] Se inició sesión correctamente
+[2022-06-1419:46:22] [ INFO ] [UserDetailsServiceImpl:50] Se inició sesión correctamente
+[2022-06-1419:46:22] [ INFO ] [UserDetailsServiceImpl:50] Se inició sesión correctamente
+[2022-06-1420:10:20] [ INFO ] [UserDetailsServiceImpl:68] El usuario se agregó correctamente
+[2022-06-1420:18:57] [ INFO ] [UserDetailsServiceImpl:75] El usuario se agregó correctamente
+[2022-06-1420:19:19] [ INFO ] [UserDetailsServiceImpl:57] Se inició sesión correctamente
+[2022-06-1420:19:19] [ INFO ] [UserDetailsServiceImpl:57] Se inició sesión correctamente
+[2022-06-1421:08:39] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:12:20] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:13:50] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:14:05] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:14:29] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:18:54] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:18:54] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:19:12] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1421:22:23] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1421:22:23] [ INFO ] [ReservaService:46] Las reservas se listaron correctamente
+[2022-06-1422:06:48] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1422:06:48] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1422:07:00] [ INFO ] [UserDetailsServiceImpl:59] Se inició sesión correctamente
+[2022-06-1422:07:00] [ INFO ] [ReservaService:46] Las reservas se listaron correctamente
+[2022-06-1513:53:31] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:53:31] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:53:31] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:53:31] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:53:31] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:53:32] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:54:23] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:54:23] [ INFO ] [ProductoService:204] Se filtraron correctamente los productos de la categoría con id 4
+[2022-06-1513:54:27] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:54:55] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:54:55] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:54:55] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:54:55] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:54:56] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:54:56] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:55:12] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:55:12] [ INFO ] [ProductoService:204] Se filtraron correctamente los productos de la categoría con id 3
+[2022-06-1513:55:15] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:55:20] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:55:20] [ INFO ] [ProductoService:204] Se filtraron correctamente los productos de la categoría con id 4
+[2022-06-1513:55:22] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:55:46] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:55:46] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:55:46] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:55:46] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:55:46] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:55:46] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:56:22] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:56:22] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:56:22] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:56:22] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:56:22] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:56:22] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:59:34] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:59:34] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:59:34] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:59:34] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:59:34] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:59:34] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:59:46] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:59:46] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:59:46] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1513:59:46] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1513:59:46] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:59:46] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:59:59] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1513:59:59] [ INFO ] [ProductoService:204] Se filtraron correctamente los productos de la categoría con id 4
+[2022-06-1514:00:33] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1514:00:38] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1514:00:38] [ ERROR] [GlobalExceptionHandler:21] No se encontró ningún producto en la ciudad seleccionada
+[2022-06-1514:01:16] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1514:01:16] [ INFO ] [ProductoService:185] Se filtraron correctamente los productos de la ciudad con id 12
+[2022-06-1514:01:27] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1514:01:27] [ ERROR] [GlobalExceptionHandler:21] No se encontró ningún producto en la ciudad seleccionada
+[2022-06-1514:01:50] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1514:01:50] [ INFO ] [ProductoService:185] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-1514:01:56] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1514:01:56] [ INFO ] [ProductoService:204] Se filtraron correctamente los productos de la categoría con id 2
+[2022-06-1514:02:05] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1514:02:06] [ INFO ] [ProductoService:185] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-1514:02:16] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1515:52:24] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un usuario incompleto. Todos los datos son requeridos
+[2022-06-1515:52:50] [ INFO ] [UserDetailsServiceImpl:80] El usuario se agregó correctamente
+[2022-06-1515:55:41] [ INFO ] [UserDetailsServiceImpl:80] El usuario se agregó correctamente
+[2022-06-1515:56:41] [ INFO ] [UserDetailsServiceImpl:80] El usuario se agregó correctamente
+[2022-06-1515:56:59] [ INFO ] [UserDetailsServiceImpl:60] Se inició sesión correctamente
+[2022-06-1515:56:59] [ INFO ] [UserDetailsServiceImpl:60] Se inició sesión correctamente
+[2022-06-1515:58:06] [ INFO ] [UserDetailsServiceImpl:80] El usuario se agregó correctamente
+[2022-06-1516:40:16] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:40:16] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:40:16] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:40:16] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:40:16] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:40:16] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:41:44] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:41:44] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:41:44] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:41:44] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:41:44] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:41:45] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:43:52] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un usuario incompleto. Todos los datos son requeridos
+[2022-06-1516:43:52] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:43:52] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:43:52] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:43:52] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:43:52] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:43:52] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:45:56] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un usuario incompleto. Todos los datos son requeridos
+[2022-06-1516:45:57] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:45:57] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:45:57] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:45:57] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:45:57] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:45:57] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:48:15] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un usuario incompleto. Todos los datos son requeridos
+[2022-06-1516:48:48] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:48:48] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:48:48] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:48:48] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:48:48] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:48:48] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:49:22] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un usuario incompleto. Todos los datos son requeridos
+[2022-06-1516:49:23] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:49:23] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:49:23] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:49:23] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:49:23] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:49:23] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:55:32] [ INFO ] [UserDetailsServiceImpl:80] El usuario se agregó correctamente
+[2022-06-1516:55:32] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:55:32] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:55:32] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1516:55:32] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1516:55:32] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1516:55:33] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1517:06:21] [ INFO ] [UserDetailsServiceImpl:60] Se inició sesión correctamente
+[2022-06-1517:06:21] [ INFO ] [UserDetailsServiceImpl:60] Se inició sesión correctamente
+[2022-06-1517:11:54] [ INFO ] [UserDetailsServiceImpl:60] Se inició sesión correctamente
+[2022-06-1517:11:54] [ INFO ] [UserDetailsServiceImpl:60] Se inició sesión correctamente
+[2022-06-1517:11:55] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1517:11:55] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1517:11:55] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1517:11:55] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1517:11:55] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1517:11:55] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1517:21:23] [ INFO ] [UserDetailsServiceImpl:60] Se inició sesión correctamente
+[2022-06-1517:37:28] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1517:37:32] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1517:37:33] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1517:37:59] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1517:38:10] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1517:38:10] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1517:38:27] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1517:38:27] [ INFO ] [UserDetailsServiceImpl:61] Se inició sesión correctamente
+[2022-06-1613:03:37] [ INFO ] [CategoriaService:37] La categoría se agregó correctamente
+[2022-06-1613:03:49] [ INFO ] [CiudadService:35] La ciudad se agregó correctamente
+[2022-06-1613:05:20] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-1613:06:02] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-1613:40:19] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-1613:41:56] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-1613:42:31] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-1613:45:04] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1613:45:06] [ INFO ] [CategoriaService:37] La categoría se agregó correctamente
+[2022-06-1613:45:10] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1613:45:14] [ INFO ] [CiudadService:35] La ciudad se agregó correctamente
+[2022-06-1613:45:19] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1614:43:27] [ INFO ] [UserDetailsServiceImpl:81] El usuario se agregó correctamente
+[2022-06-1616:27:57] [ INFO ] [PuntuacionService:34] El favorito se agregó correctamente
+[2022-06-1616:28:50] [ INFO ] [UserDetailsServiceImpl:81] El usuario se agregó correctamente
+[2022-06-1616:29:21] [ INFO ] [PuntuacionService:34] El favorito se agregó correctamente
+[2022-06-1616:30:10] [ INFO ] [PuntuacionService:47] Los favoritos se listaron correctamente
+[2022-06-1616:30:55] [ INFO ] [PuntuacionService:34] El favorito se agregó correctamente
+[2022-06-1616:30:58] [ INFO ] [PuntuacionService:47] Los favoritos se listaron correctamente
+[2022-06-1616:32:31] [ INFO ] [PuntuacionService:60] Los favoritos del ususario con id 1 se listaron correctamente
+[2022-06-1616:32:46] [ INFO ] [PuntuacionService:60] Los favoritos del ususario con id 2 se listaron correctamente
+[2022-06-1616:37:08] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:37:18] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:38:54] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:43:02] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:44:49] [ INFO ] [ReservaService:46] Las reservas se listaron correctamente
+[2022-06-1616:46:30] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:51:54] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:52:04] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:54:15] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1616:55:06] [ INFO ] [ReservaService:46] Las reservas se listaron correctamente
+[2022-06-1617:02:12] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1617:03:48] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1617:05:26] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1617:05:55] [ INFO ] [ProductoService:123] Los productos se listaron correctamente
+[2022-06-1617:06:04] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una puntuación incompleta. Todos los datos son requeridos
+[2022-06-1617:06:55] [ INFO ] [PuntuacionService:33] La puntuación se agregó correctamente
+[2022-06-1617:06:59] [ INFO ] [PuntuacionService:46] Las puntuaciones se listaron correctamente
+[2022-06-1617:07:07] [ INFO ] [PuntuacionService:47] Los favoritos se listaron correctamente
+[2022-06-1617:07:10] [ INFO ] [PuntuacionService:60] Los favoritos del ususario con id 2 se listaron correctamente
+[2022-06-1617:07:24] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1617:11:19] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1617:11:24] [ INFO ] [ReservaService:46] Las reservas se listaron correctamente
+[2022-06-1617:12:06] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1617:12:12] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1617:12:14] [ INFO ] [ReservaService:46] Las reservas se listaron correctamente
+[2022-06-1617:13:32] [ INFO ] [ReservaService:59] Las reservas del producto con id 8 se listaron correctamente
+[2022-06-1712:20:38] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1712:21:31] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1712:21:50] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1712:22:11] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1712:22:27] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1712:23:09] [ INFO ] [ReservaService:33] La reserva se agregó correctamente
+[2022-06-1712:37:40] [ INFO ] [ProductoService:121] Los productos se listaron correctamente
+[2022-06-1712:37:40] [ INFO ] [ProductoService:231] Se filtraron correctamente los productos que se encuentras libres entre las fechas 2022-06-06 y 2022-06-24
+[2022-06-1712:44:39] [ INFO ] [ProductoService:121] Los productos se listaron correctamente
+[2022-06-1712:44:39] [ INFO ] [ProductoService:231] Se filtraron correctamente los productos que se encuentras libres entre las fechas 2022-06-06 y 2022-06-24
+[2022-06-1712:54:52] [ INFO ] [ProductoService:121] Los productos se listaron correctamente
+[2022-06-1712:54:52] [ INFO ] [ProductoService:228] Se filtraron correctamente los productos que se encuentras libres entre las fechas 2022-06-06 y 2022-06-24
+[2022-06-1713:02:02] [ INFO ] [ProductoService:121] Los productos se listaron correctamente
+[2022-06-1713:02:02] [ INFO ] [ProductoService:228] Se filtraron correctamente los productos que se encuentras libres entre las fechas 2022-06-06 y 2022-06-24
+[2022-06-1714:22:12] [ INFO ] [UserDetailsServiceImpl:86] El usuario se agregó correctamente
+[2022-06-1714:24:02] [ INFO ] [ReservaService:34] La reserva se agregó correctamente
+[2022-06-1714:24:14] [ INFO ] [ReservaService:34] La reserva se agregó correctamente
+[2022-06-1714:24:26] [ INFO ] [ReservaService:34] La reserva se agregó correctamente
+[2022-06-1714:24:37] [ INFO ] [ReservaService:34] La reserva se agregó correctamente
+[2022-06-1714:24:49] [ INFO ] [ReservaService:34] La reserva se agregó correctamente
+[2022-06-1714:24:58] [ INFO ] [ReservaService:34] La reserva se agregó correctamente
+[2022-06-1714:25:03] [ INFO ] [ReservaService:47] Las reservas se listaron correctamente
+[2022-06-1714:25:34] [ INFO ] [ProductoService:257] Se filtraron correctamente los productos que tienen reserva entre las fechas 2022-06-06 y 2022-06-24
+[2022-06-1714:45:23] [ INFO ] [ProductoService:119] Los productos se listaron correctamente
+[2022-06-1714:45:23] [ INFO ] [ProductoService:181] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-1714:45:23] [ INFO ] [ProductoService:294] Se filtraron correctamente los productos de la ciudad con id 2 con fechas disponibles entre 2022-06-06 y 2022-06-24
+[2022-06-1714:46:12] [ INFO ] [ProductoService:119] Los productos se listaron correctamente
+[2022-06-1714:46:12] [ INFO ] [ProductoService:181] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-1714:52:14] [ INFO ] [ProductoService:119] Los productos se listaron correctamente
+[2022-06-1714:52:14] [ INFO ] [ProductoService:181] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-1714:52:14] [ INFO ] [ProductoService:294] Se filtraron correctamente los productos de la ciudad con id 2 con fechas disponibles entre 2022-06-06 y 2022-06-24
+[2022-06-1720:52:20] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:52:20] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:54:42] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:55:00] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:55:00] [ INFO ] [FavoritoService:44] El favorito se agregó correctamente
+[2022-06-1720:55:10] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:55:10] [ INFO ] [FavoritoService:73] Los favoritos del ususario con id 1 se listaron correctamente
+[2022-06-1720:55:21] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:55:21] [ INFO ] [FavoritoService:73] Los favoritos del ususario con id 2 se listaron correctamente
+[2022-06-1720:55:25] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:55:25] [ INFO ] [FavoritoService:73] Los favoritos del ususario con id 80 se listaron correctamente
+[2022-06-1720:55:49] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:55:49] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 80
+[2022-06-1720:59:17] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:59:17] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:59:35] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:59:35] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 80
+[2022-06-1720:59:42] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:59:42] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 8
+[2022-06-1720:59:51] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1720:59:51] [ INFO ] [FavoritoService:44] El favorito se agregó correctamente
+[2022-06-1721:00:02] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:00:02] [ INFO ] [FavoritoService:73] Los favoritos del ususario con id 2 se listaron correctamente
+[2022-06-1721:00:06] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:00:06] [ INFO ] [FavoritoService:73] Los favoritos del ususario con id 1 se listaron correctamente
+[2022-06-1721:00:24] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:00:24] [ INFO ] [FavoritoService:73] Los favoritos del ususario con id 10 se listaron correctamente
+[2022-06-1721:00:46] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:00:46] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 10
+[2022-06-1721:00:51] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:00:51] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 100
+[2022-06-1721:00:54] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:00:54] [ INFO ] [FavoritoService:75] Los favoritos del ususario con id 1 se listaron correctamente
+[2022-06-1721:01:13] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:01:13] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 10
+[2022-06-1721:05:42] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:05:42] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:06:20] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:06:20] [ ERROR] [GlobalExceptionHandler:27] La fecha de inicio de reserva debe ser anterior a la fecha de fin de reserva
+[2022-06-1721:06:49] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:06:49] [ ERROR] [GlobalExceptionHandler:27] La fecha de inicio de reserva debe ser anterior a la fecha de fin de reserva
+[2022-06-1721:08:24] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:08:24] [ INFO ] [ProductoService:119] Los productos se listaron correctamente
+[2022-06-1721:08:24] [ INFO ] [ProductoService:181] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1721:08:24] [ INFO ] [ProductoService:254] Se filtraron correctamente los productos de la ciudad con id 1 con fechas disponibles entre 2022-11-01 y 2022-03-01
+[2022-06-1721:10:24] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:10:24] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:10:44] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:10:45] [ INFO ] [ProductoService:119] Los productos se listaron correctamente
+[2022-06-1721:10:45] [ INFO ] [ProductoService:181] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1721:10:45] [ ERROR] [GlobalExceptionHandler:27] La fecha de inicio de reserva debe ser anterior a la fecha de fin de reserva
+[2022-06-1721:15:34] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:15:34] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1721:15:34] [ INFO ] [ProductoService:190] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1721:15:34] [ ERROR] [GlobalExceptionHandler:27] La fecha de inicio de reserva debe ser anterior a la fecha de fin de reserva
+[2022-06-1721:15:49] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:15:49] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1721:15:49] [ INFO ] [ProductoService:190] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1721:15:49] [ ERROR] [GlobalExceptionHandler:27] La fecha de inicio de reserva debe ser anterior a la fecha de fin de reserva
+[2022-06-1721:15:57] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:15:57] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1721:15:57] [ INFO ] [ProductoService:190] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1721:15:57] [ INFO ] [ProductoService:263] Se filtraron correctamente los productos de la ciudad con id 1 con fechas disponibles entre 2022-03-10 y 2022-03-15
+[2022-06-1721:16:06] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:16:06] [ ERROR] [GlobalExceptionHandler:21] No existe una ciudad con id 100
+[2022-06-1721:16:12] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:16:12] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1721:16:12] [ ERROR] [GlobalExceptionHandler:21] No se encontró ningún producto en la ciudad seleccionada
+[2022-06-1721:16:31] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:16:31] [ ERROR] [GlobalExceptionHandler:21] No existe una ciudad con id 34
+[2022-06-1721:16:39] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:16:39] [ ERROR] [GlobalExceptionHandler:21] No existe una ciudad con id 34
+[2022-06-1721:16:43] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:16:43] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1721:16:43] [ ERROR] [GlobalExceptionHandler:21] No se encontró ningún producto en la ciudad seleccionada
+[2022-06-1721:20:33] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:20:33] [ ERROR] [GlobalExceptionHandler:21] No existe un producto con id 1000
+[2022-06-1721:20:40] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:20:40] [ INFO ] [ReservaService:73] Las reservas del producto con id 1 se listaron correctamente
+[2022-06-1721:20:43] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:20:43] [ INFO ] [ReservaService:73] Las reservas del producto con id 15 se listaron correctamente
+[2022-06-1721:20:46] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:20:46] [ INFO ] [ReservaService:73] Las reservas del producto con id 16 se listaron correctamente
+[2022-06-1721:20:49] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:20:49] [ ERROR] [GlobalExceptionHandler:21] No existe un producto con id 17
+[2022-06-1721:32:26] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:32:26] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:32:55] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:32:55] [ INFO ] [ReservaService:56] Las reservas se listaron correctamente
+[2022-06-1721:35:56] [ INFO ] [UserDetailsServiceImpl:63] Se inició sesión correctamente
+[2022-06-1721:35:56] [ INFO ] [ReservaService:56] Las reservas se listaron correctamente
+[2022-06-1815:02:16] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1815:05:20] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1815:17:35] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1815:20:26] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1815:35:22] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:35:22] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:40:08] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:40:08] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una reserva incompleta. Todos los datos son requeridos
+[2022-06-1815:40:53] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:40:53] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una reserva incompleta. Todos los datos son requeridos
+[2022-06-1815:42:36] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:42:36] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una reserva incompleta. Todos los datos son requeridos
+[2022-06-1815:44:11] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:44:11] [ ERROR] [GlobalExceptionHandler:27] Intenta crear una reserva incompleta. Todos los datos son requeridos
+[2022-06-1815:44:41] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:44:41] [ INFO ] [ReservaService:46] La reserva se agregó correctamente
+[2022-06-1815:47:00] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:47:01] [ ERROR] [GlobalExceptionHandler:27] Lamentablemente, para reservar debe tener las vacunas contra el COVID-19
+[2022-06-1815:47:10] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:47:10] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1815:49:29] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:49:29] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1815:51:13] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:51:14] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1815:53:13] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:53:13] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1815:54:20] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1815:56:31] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:56:31] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1815:58:10] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:58:10] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1815:58:57] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1815:58:57] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1816:05:27] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:05:27] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1816:08:18] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:08:18] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1816:09:21] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:09:22] [ INFO ] [ReservaService:48] La reserva se agregó correctamente
+[2022-06-1816:15:13] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:15:13] [ INFO ] [ReservaService:50] La reserva se agregó correctamente
+[2022-06-1816:16:04] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:16:04] [ INFO ] [ReservaService:50] La reserva se agregó correctamente
+[2022-06-1816:21:22] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:21:22] [ INFO ] [ReservaService:50] La reserva se agregó correctamente
+[2022-06-1816:24:01] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:24:01] [ INFO ] [ReservaService:50] La reserva se agregó correctamente
+[2022-06-1816:25:03] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:25:04] [ INFO ] [ReservaService:50] La reserva se agregó correctamente
+[2022-06-1816:27:34] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:27:34] [ INFO ] [ReservaService:50] La reserva se agregó correctamente
+[2022-06-1816:28:48] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:28:48] [ INFO ] [ReservaService:50] La reserva se agregó correctamente
+[2022-06-1816:36:20] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:36:20] [ INFO ] [ReservaService:55] La reserva se agregó correctamente
+[2022-06-1816:37:09] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:37:10] [ INFO ] [ReservaService:55] La reserva se agregó correctamente
+[2022-06-1816:49:10] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1816:49:10] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:28:36] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1817:29:43] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1817:31:49] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-1817:32:16] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:32:17] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:32:33] [ INFO ] [CiudadService:47] Las ciudades se listaron correctamente
+[2022-06-1817:32:35] [ INFO ] [CategoriaService:50] Las categorías se listaron correctamente
+[2022-06-1817:32:44] [ ERROR] [GlobalExceptionHandler:27] Intenta crear un producto incompleto. Todos los datos son requeridos
+[2022-06-1817:34:42] [ ERROR] [GlobalExceptionHandler:27] La fecha de inicio de reserva debe ser anterior a la fecha de fin de reserva
+[2022-06-1817:34:58] [ INFO ] [ProductoService:244] Se filtraron correctamente los productos que tienen reserva entre las fechas 2022-12-20 y 2022-12-25
+[2022-06-1817:35:22] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:35:22] [ INFO ] [ReservaService:87] Las reservas se listaron correctamente
+[2022-06-1817:35:34] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:35:34] [ INFO ] [ReservaService:53] La reserva se agregó correctamente
+[2022-06-1817:35:59] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:35:59] [ INFO ] [ReservaService:87] Las reservas se listaron correctamente
+[2022-06-1817:36:13] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:36:13] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 10
+[2022-06-1817:36:17] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:36:17] [ INFO ] [FavoritoService:75] Los favoritos del ususario con id 1 se listaron correctamente
+[2022-06-1817:36:20] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:36:20] [ ERROR] [GlobalExceptionHandler:21] No se encontró un usuario con id 2
+[2022-06-1817:36:26] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:36:26] [ INFO ] [FavoritoService:75] Los favoritos del ususario con id 3 se listaron correctamente
+[2022-06-1817:36:36] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:36:36] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1817:36:36] [ ERROR] [GlobalExceptionHandler:21] No se encontró ningún producto en la ciudad seleccionada
+[2022-06-1817:37:02] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:37:03] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1817:37:03] [ INFO ] [ProductoService:190] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1817:37:03] [ ERROR] [GlobalExceptionHandler:27] La fecha de inicio de reserva debe ser anterior a la fecha de fin de reserva
+[2022-06-1817:37:09] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-1817:37:09] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-1817:37:09] [ INFO ] [ProductoService:190] Se filtraron correctamente los productos de la ciudad con id 1
+[2022-06-1817:37:09] [ INFO ] [ProductoService:263] Se filtraron correctamente los productos de la ciudad con id 1 con fechas disponibles entre 2022-03-10 y 2022-03-15
+[2022-06-2014:49:11] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2014:49:12] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2114:48:20] [ INFO ] [PuntuacionService:46] Las puntuaciones se listaron correctamente
+[2022-06-2114:50:33] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2114:50:33] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2212:41:46] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2212:41:46] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2212:42:35] [ INFO ] [UserDetailsServiceImpl:92] El usuario se agregó correctamente
+[2022-06-2212:42:51] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2212:42:51] [ INFO ] [UserDetailsServiceImpl:67] Se inició sesión correctamente
+[2022-06-2213:13:08] [ INFO ] [ProductoService:274] Se filtraron correctamente los productos que tienen reserva entre las fechas 2022-12-20 y 2022-12-25
+[2022-06-2415:13:32] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2415:18:09] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2415:21:54] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2415:22:34] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2415:22:34] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2415:23:14] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2415:23:14] [ INFO ] [ReservaService:51] La reserva se agregó correctamente
+[2022-06-2415:48:52] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2415:48:52] [ INFO ] [ProductoService:190] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-2415:48:54] [ INFO ] [ProductoService:293] Se filtraron correctamente los productos de la ciudad con id 2 con fechas disponibles entre 2022-06-25 y 2022-07-15
+[2022-06-2415:49:31] [ INFO ] [ProductoService:274] Se filtraron correctamente los productos que tienen reserva entre las fechas 2022-06-26 y 2022-07-01
+[2022-06-2617:26:35] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:26:35] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:27:21] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:27:37] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:27:38] [ INFO ] [FavoritoService:81] Los favoritos del ususario con id 6 se listaron correctamente
+[2022-06-2617:28:05] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:28:05] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:28:18] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:28:19] [ INFO ] [FavoritoService:81] Los favoritos del ususario con id 6 se listaron correctamente
+[2022-06-2617:28:40] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:28:41] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:28:54] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:28:56] [ INFO ] [FavoritoService:81] Los favoritos del ususario con id 6 se listaron correctamente
+[2022-06-2617:29:31] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:29:33] [ INFO ] [FavoritoService:81] Los favoritos del ususario con id 1 se listaron correctamente
+[2022-06-2617:29:58] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:30:00] [ ERROR] [GlobalExceptionHandler:21] No se encontró un producto con id 88
+[2022-06-2617:30:20] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:30:22] [ INFO ] [FavoritoService:104] El favorito se eliminó correctamente
+[2022-06-2617:30:26] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2617:30:28] [ INFO ] [FavoritoService:104] El favorito se eliminó correctamente
+[2022-06-2716:30:04] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2716:30:39] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2716:30:55] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2716:31:19] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2716:31:29] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2716:47:49] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2716:47:49] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2716:48:01] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:03:02] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:03:12] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:07:53] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:08:44] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:08:44] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:09:27] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:09:27] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:12:18] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2717:12:29] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2717:12:45] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2717:12:55] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2717:13:09] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-06-2717:14:41] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:14:41] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:17:12] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:17:12] [ INFO ] [ReservaService:81] Las reservas se listaron correctamente
+[2022-06-2717:18:15] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:18:15] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:18:48] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:19:14] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:19:27] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:19:37] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:19:37] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:19:37] [ INFO ] [ProductoService:212] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-2717:19:43] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:19:43] [ INFO ] [ProductoService:212] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-2717:19:47] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:19:47] [ INFO ] [ProductoService:212] Se filtraron correctamente los productos de la ciudad con id 4
+[2022-06-2717:22:09] [ INFO ] [ProductoService:296] Se filtraron correctamente los productos que tienen reserva entre las fechas 2022-06-26 y 2022-07-01
+[2022-06-2717:22:14] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:22:14] [ INFO ] [ProductoService:212] Se filtraron correctamente los productos de la ciudad con id 2
+[2022-06-2717:22:14] [ INFO ] [ProductoService:315] Se filtraron correctamente los productos de la ciudad con id 2 con fechas disponibles entre 2022-06-25 y 2022-07-15
+[2022-06-2717:22:29] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:22:29] [ INFO ] [ProductoService:231] Se filtraron correctamente los productos de la categoría con id 2
+[2022-06-2717:23:06] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:23:38] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:24:51] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:29:15] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:31:45] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:32:13] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:33:53] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:34:17] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:34:43] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:35:37] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:35:39] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:36:12] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:37:31] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:38:09] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:38:10] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:38:23] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:38:44] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:38:44] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:39:02] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:45:02] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:45:36] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:45:59] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:46:40] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:46:40] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:46:51] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:46:51] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:48:18] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:48:18] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:48:24] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:48:24] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:48:51] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:48:58] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:48:58] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:49:07] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:51:05] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:51:32] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:51:47] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:51:55] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:51:55] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:52:08] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:52:08] [ INFO ] [ProductoService:80] El producto se agregó correctamente
+[2022-06-2717:52:19] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2717:52:19] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2717:52:34] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2718:46:23] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2718:46:23] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2718:46:56] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2718:46:56] [ INFO ] [ReservaService:116] Las reservas del usuario con id 1 se listaron correctamente
+[2022-06-2718:47:21] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2718:47:21] [ INFO ] [ReservaService:116] Las reservas del usuario con id 5 se listaron correctamente
+[2022-06-2718:47:37] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2718:47:37] [ INFO ] [ReservaService:116] Las reservas del usuario con id 3 se listaron correctamente
+[2022-06-2720:57:57] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2720:57:57] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2720:58:50] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2720:59:35] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2720:59:35] [ ERROR] [GlobalExceptionHandler:27] Se debe enviar el id del producto a actualizar
+[2022-06-2812:49:07] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2812:49:08] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2812:52:49] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2812:52:54] [ INFO ] [ReservaService:81] Las reservas se listaron correctamente
+[2022-06-2813:02:34] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2813:02:39] [ INFO ] [ReservaService:81] Las reservas se listaron correctamente
+[2022-06-2815:07:42] [ INFO ] [ProductoService:122] Los productos se listaron correctamente
+[2022-06-2815:22:35] [ INFO ] [CategoriaService:51] Las categorías se listaron correctamente
+[2022-06-2815:23:21] [ ERROR] [GlobalExceptionHandler:22] No se encontró una categoría con el id 8
+[2022-06-2816:03:09] [ INFO ] [ProductoService:302] Se filtraron correctamente los productos que tienen reserva entre las fechas 2022-06-17 y 2022-08-05
+[2022-06-2816:08:28] [ INFO ] [ProductoService:302] Se filtraron correctamente los productos que tienen reserva entre las fechas 2010-07-01 y 2010-07-31
+[2022-06-2816:33:40] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2816:33:40] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2915:12:01] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2915:12:01] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2915:12:18] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-06-2915:12:18] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0322:39:25] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0322:39:25] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0322:39:44] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0322:39:48] [ INFO ] [CaracteristicaService:56] Las caracteristicas se listaron correctamente
+[2022-07-0322:41:31] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0322:41:36] [ INFO ] [CaracteristicaService:56] Las caracteristicas se listaron correctamente
+[2022-07-0322:42:58] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0322:43:03] [ INFO ] [CaracteristicaService:56] Las caracteristicas se listaron correctamente
+[2022-07-0401:16:45] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0401:16:46] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0401:17:02] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0401:21:15] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0401:21:19] [ INFO ] [CaracteristicaService:79] Las caracteristicas se listaron correctamente
+[2022-07-0401:24:05] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0401:24:10] [ INFO ] [CaracteristicaService:79] Las caracteristicas se listaron correctamente
+[2022-07-0401:35:36] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0401:35:41] [ INFO ] [CaracteristicaService:83] Las caracteristicas se listaron correctamente
+[2022-07-0401:50:59] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0401:51:04] [ INFO ] [CaracteristicaService:79] Las caracteristicas se listaron correctamente
+[2022-07-0402:03:26] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:03:31] [ INFO ] [CaracteristicaService:71] Las caracteristicas se listaron correctamente
+[2022-07-0402:04:50] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:11:19] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:16:11] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:18:30] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:18:35] [ INFO ] [CaracteristicaService:92] Las caracteristicas se listaron correctamente
+[2022-07-0402:19:52] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:19:57] [ INFO ] [CaracteristicaService:92] Las caracteristicas se listaron correctamente
+[2022-07-0402:23:28] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:23:32] [ INFO ] [CaracteristicaService:93] Las caracteristicas se listaron correctamente
+[2022-07-0402:30:13] [ INFO ] [UserDetailsServiceImpl:65] Se inició sesión correctamente
+[2022-07-0402:30:17] [ INFO ] [CaracteristicaService:68] Las caracteristicas se listaron correctamente
+[2022-07-0402:37:58] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0402:38:59] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0402:40:33] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0402:42:10] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0402:47:15] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0402:48:05] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0402:50:26] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0402:52:33] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente
+[2022-07-0403:15:10] [ INFO ] [UserDetailsServiceImpl:90] El usuario se agregó correctamente

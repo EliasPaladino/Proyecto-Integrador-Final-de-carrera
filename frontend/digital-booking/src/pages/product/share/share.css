@@ -1,0 +1,47 @@
+@import url("../../../styles/common.css");
+.share-component{
+    display: flex;
+    justify-content: start;
+}
+
+.share-component {
+    padding: 1rem 0;
+}
+
+.share-component .share-icon{
+    height: 1.9rem;
+    width: 1.8rem;
+    margin: 1rem;
+    cursor: pointer;
+    color: var(--second-bg-color);
+}
+
+.share-component .heart-icon {
+    margin: 1rem 0;
+}
+
+.share-component .share-icon:hover{
+    transform: scale(1.1);
+    color: var(--main-bg-color);
+}
+
+.share-links{
+    display: flex;
+    width: 0;
+    gap: 2%;
+    height: 1.9rem;
+    
+}
+
+.share-component svg:hover{
+    transform: scale(1.1);
+    color: var(--main-bg-color);
+}
+
+.share-component svg{
+    color: var(--second-bg-color);
+    height: 1.9rem;
+    width: 1.8rem;
+    margin: 1rem 4%;
+    cursor: pointer;
+}

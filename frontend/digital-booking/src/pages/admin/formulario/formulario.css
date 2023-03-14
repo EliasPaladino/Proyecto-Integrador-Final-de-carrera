@@ -1,0 +1,51 @@
+.form-propiedades .searcher-inputs {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
+
+input.searcher-input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+    border: none;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    resize: none;
+}
+
+.form-propiedades {
+    padding: 2rem;
+}
+
+@media (min-width: 998px) {
+    .form-propiedades {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .form-grupo {
+        width: 49%;
+    }
+
+    .bloque-distancia {
+        display: flex;
+        gap: 1rem;
+        width: 100%;
+        padding-right: 1rem;
+    }
+
+    .bloque-distancia__item {
+        width: 100%;
+    }
+
+    .bloque-descripcion {
+        width: 100%;
+    }
+}

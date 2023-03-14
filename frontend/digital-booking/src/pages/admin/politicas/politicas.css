@@ -1,0 +1,16 @@
+.politicas {
+    padding: 2rem;
+}
+
+.politicas textarea {
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    border: none;
+}
+
+.politicas-body{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+}

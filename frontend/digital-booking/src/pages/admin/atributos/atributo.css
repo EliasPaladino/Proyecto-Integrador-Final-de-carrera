@@ -1,0 +1,24 @@
+.atributos {
+    display: flex;
+    background: #f9f9f9;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 2rem;
+    padding-top: 0;
+    gap: 1rem;
+}
+
+.atributos div {
+    width: 100%;
+}
+
+.atributos img {
+    padding-top: 4rem;
+}
+
+@media (min-width: 998px) {
+    .body-atributos {
+        display: flex;
+        gap: 1rem;
+    }
+}

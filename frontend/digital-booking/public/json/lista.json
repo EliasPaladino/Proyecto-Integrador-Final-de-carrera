@@ -1,0 +1,50 @@
+[
+    {
+        "image": null, 
+        "id": 1,
+        "category": "Hotel", 
+        "title": "Hermitage Hotel", 
+        "location": "https://www.google.com/maps/place/Hotel+Hermitage/@-38.0078721,-57.5401745,15z/data=!4m8!3m7!1s0x0:0x2ce98e1c1d4cdebd!5m2!4m1!1i2!8m2!3d-38.0078721!4d-57.5401745",
+        "description":"En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires", 
+        "stars": 5
+    },
+    {
+        "image": null, 
+        "id": 2,
+        "category": "hostels", 
+<<<<<<< HEAD
+        "title": "Titulo aqui", 
+=======
+        "title": "Hermitage Hotel", 
+>>>>>>> bcc7807bdddb31987ff29f1422920aa659e55b94
+        "location": "https://www.google.com/maps/place/Hotel+Hermitage/@-38.0078721,-57.5401745,15z/data=!4m8!3m7!1s0x0:0x2ce98e1c1d4cdebd!5m2!4m1!1i2!8m2!3d-38.0078721!4d-57.5401745",
+        "description":"En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires", 
+        "stars": 4
+    },
+    {
+        "image": null, 
+        "id": 3,
+        "category": "Hotel", 
+<<<<<<< HEAD
+        "title": "Hermitage Hotel3", 
+=======
+        "title": "Hermitage Hotel", 
+>>>>>>> bcc7807bdddb31987ff29f1422920aa659e55b94
+        "location": "https://www.google.com/maps/place/Hotel+Hermitage/@-38.0078721,-57.5401745,15z/data=!4m8!3m7!1s0x0:0x2ce98e1c1d4cdebd!5m2!4m1!1i2!8m2!3d-38.0078721!4d-57.5401745",
+        "description":"En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires", 
+        "stars": 1
+    },
+    {
+        "image": null, 
+        "id": 4,
+        "category": "Hotel", 
+<<<<<<< HEAD
+        "title": "Hermitage Hotel4", 
+=======
+        "title": "Hermitage Hotel", 
+>>>>>>> bcc7807bdddb31987ff29f1422920aa659e55b94
+        "location": "https://www.google.com/maps/place/Hotel+Hermitage/@-38.0078721,-57.5401745,15z/data=!4m8!3m7!1s0x0:0x2ce98e1c1d4cdebd!5m2!4m1!1i2!8m2!3d-38.0078721!4d-57.5401745",
+        "description":"En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires", 
+        "stars": 4
+    }
+]

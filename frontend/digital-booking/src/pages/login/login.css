@@ -1,0 +1,34 @@
+p.errorLogin {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: red;
+}
+
+form.formUsers p a{
+    color: blue;
+    text-decoration: none;
+}
+
+form.formUsers p a:hover{
+    text-decoration: underline;
+}
+
+.login-error-message{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #B00020;
+    display: flex;
+    margin: 15px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-align: justify;
+}
+
+.login-error-container{
+    background: #fae1e1;
+    border-radius: 8px;
+}

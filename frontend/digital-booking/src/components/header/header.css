@@ -1,0 +1,84 @@
+/* Header */
+
+.header {
+    background-color: #FFF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    height: 9.3rem;
+}
+
+.barra {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.barra .logo-container {
+    max-width: 50%;
+}
+
+.barra a {
+    display: flex;
+    align-items: center;
+}
+
+.barra .user-info {
+    display: none;
+}
+
+/* Logo */
+
+.logo-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 1rem;
+}
+
+.logo {
+    height: 100%;
+}
+
+a.lema {
+    display: none;
+}
+
+@media (min-width: 580px) {
+    .logo {
+        align-self: center;
+    }
+
+    .barra .user-info {
+        display: flex;
+    }
+}
+
+@media (min-width: 998px) {
+    a.lema {
+        display: block;
+        color: var(--third-bg-color);
+        font-size: 2rem;
+        font-weight: 300;
+        font-style: italic;
+    }
+    
+    a.lema:hover {
+        text-decoration: none;
+    }
+}
+
+/* Menu */
+
+.botonMenu {
+    height: 1.2rem;
+}
+
+@media (min-width: 580px) {
+    .botonMenu {
+        display: none;
+    }
+}

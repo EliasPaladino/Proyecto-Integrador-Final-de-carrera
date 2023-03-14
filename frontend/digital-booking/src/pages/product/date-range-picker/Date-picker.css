@@ -1,0 +1,155 @@
+@import url("../../../styles/common.css");
+
+.hide{
+    display: none !important;
+}
+
+.showInit{
+    padding: 0px !important;
+}
+
+.showInit h2{
+    margin: 0px !important;
+}
+
+.product-date-picker{
+    display: flex;
+    flex-direction: column;
+    background-color: #eeeef1;
+    padding: 2rem 0rem;
+}
+
+.product-date-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.product-date-picker .rdrDateRangePickerWrapper, .product-date-picker .rdrDefinedRangesWrapper, .product-date-picker .rdrCalendarWrapper  {
+    width: 100%;
+    max-width: 750px;
+}
+
+div.product-date-button {
+    background: var(--main-bg-color);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    width: 200px;
+    border: none;
+    min-height: 40px;
+    cursor: pointer;
+    margin: 2%;
+    width: 96%;
+    max-height: 10px;
+}
+
+.product-date-button a {
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    color: #FFF;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+
+.product-date-picker .rdrDateDisplayWrapper{
+    display: none;
+}
+
+.product-add{
+    background-color: white;
+    border: .1rem solid #F3F1ED;
+    box-shadow: 0 .4rem .4rem rgba(0, 0, 0, 0.25);
+    border-radius: 1rem;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    text-align: center;
+    font-family: var(--main-font);
+}
+
+.product-date-container h4{
+    margin: 10px 20px;
+    font-family: var(--main-font);
+}
+
+.product-date-picker h2{
+    margin: 10px 0;
+    font-family: var(--main-font);
+}
+
+
+.rdrInRange, .rdrEndEdge ,.rdrStartEdge{
+    border-radius: 25px !important;
+    left: 10px !important;
+    right: 10px !important;
+}
+
+.product-date-container-date-picker{
+    text-align: center;
+}
+
+.product-date-container-date-picker{
+    font-weight: 200;
+    font-style: oblique;
+}
+
+@media screen and (max-width: 680px) {
+    .product-date-container{
+        flex-direction: column;
+    }
+
+    .product-add{
+        flex-direction: column;
+        background-color: transparent;
+        border: none;
+        box-shadow: none;
+        margin: 2%;
+        text-align: start;
+        width: 100%;
+    }
+    .product-add h4{
+        margin: 2%;
+    }
+
+    .rdrDateRangePickerWrapper{
+        max-width: 350px;
+    }
+}
+
+@media screen and (max-width: 998px) and (min-width: 680px) {
+    .product-date-container{
+        flex-direction: column;
+    }
+
+    .product-add{
+        flex-direction: row;
+        background-color: transparent;
+        border: none;
+        box-shadow: none;
+        margin: 2%;
+        text-align: start;
+        width: 100%;
+        align-items: center;
+    }
+
+    .product-date-container h4{
+        margin: 0;
+        flex: 50;
+    }
+
+    .product-date-button {
+        flex: 50;
+    }
+
+    .rdrDateRangePickerWrapper{
+        width: auto;
+    }
+}

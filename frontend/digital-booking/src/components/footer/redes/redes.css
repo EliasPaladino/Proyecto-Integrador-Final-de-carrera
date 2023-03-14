@@ -1,0 +1,8 @@
+.redes {
+    display: flex;
+    gap: 2.3rem;
+}
+
+.redes a {
+    color: white;
+}

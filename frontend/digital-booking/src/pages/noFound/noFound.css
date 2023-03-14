@@ -1,0 +1,25 @@
+.no-found{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 210px);
+}
+
+
+@media (max-width: 768px){
+    .no-found{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .no-found img{
+        height: 70%;
+    }
+
+    .no-found h1{
+        margin: 0 10px;
+    }
+    
+    
+}

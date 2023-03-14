@@ -1,0 +1,62 @@
+@import url("../../styles/common.css");
+.tabla-reserva{
+    margin-top: 100px;
+}
+
+.tabla-container{
+    height: calc(100vh - 58px);
+    overflow: auto;
+}
+
+.tabla-reserva-icono{
+    cursor: pointer;
+    color: var(--second-bg-color);
+    padding-right: 5px;
+}
+
+.red{
+    color: red;
+}
+
+.tabla-header{
+    position: sticky;
+    top: 93px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 5%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: var(--second-bg-color);
+    color: white;
+  }
+
+.tabla-reserva-phone{
+    display: none;
+} 
+
+@media (max-width: 768px){
+    .tabla-reserva-item{
+        display: none;
+    }
+    .tabla-reserva-phone{
+        display: flex;
+        flex-direction: column;
+    }  
+    .tabla-reserva-title{
+        display: flex;
+        justify-content: space-between;
+        font-weight: bold;
+        font-size: 20px;
+    }      
+}

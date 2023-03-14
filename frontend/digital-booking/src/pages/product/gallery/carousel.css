@@ -1,0 +1,123 @@
+/* Gallery Carousel */
+
+.gallery {
+  display: none;
+}
+
+@media (min-width: 998px) {
+    .gallery {
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 1rem;
+        position: relative;
+    }
+
+    .gallery img {
+        border-radius: 8px;
+    }
+
+    .one {
+        grid-row: 1 / 3;
+        height: 100%;
+    }
+    .four {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+    }
+
+    .more {
+        color: #FFF;
+        font-size: 1.6rem;
+        font-weight: bold;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        margin-right: 2rem;
+        margin-bottom: 3rem;
+        padding: .5rem 1rem;
+        background-color: var(--main-bg-color);
+        border-radius: 10px;
+    }
+
+    .more:hover {
+        cursor: pointer;
+        text-decoration: none;
+    }
+}
+
+/* Carousel Mobile & Tablet */
+
+.carousel {
+    max-height: 44rem;
+}
+
+@media (min-width: 998px) {
+    .carouselMob {
+        display: none;
+    }
+}
+
+/* Carousel template */
+
+.carousel-template {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    background-color: rgba(56, 59, 88, 0.8);
+    top: 0;
+}
+
+.carousel-desktop {
+    position: relative;
+    margin-top: 4rem;
+    width: 45rem;
+    height: 37.5rem;
+    height: auto;
+    background-color: #FFF;
+}
+
+@media(min-width: 1400px) {
+    .carousel-desktop {
+        width: 45rem;
+    }
+}
+
+.carousel-desktop .close {
+    color: #FFF;
+    font-size: 2.4rem;
+    font-weight: 500;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 3rem;
+}
+
+.carousel-desktop .close:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.carousel .carousel-status {
+    bottom: 0;
+    top: inherit;
+}
+
+.carousel-template .footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+
+/* Carousel Desktop */
+
+.carousel-desktop .img-desktop {
+    object-fit: contain;
+    height: 100%;
+}

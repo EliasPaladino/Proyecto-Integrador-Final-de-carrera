@@ -1,0 +1,8 @@
+@import url("../../styles/common.css");
+
+/* Body */
+
+main {
+    height: 100%;
+    background-color: #AAA;
+}

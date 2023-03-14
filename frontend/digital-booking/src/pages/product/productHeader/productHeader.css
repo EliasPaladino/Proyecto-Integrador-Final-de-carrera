@@ -1,0 +1,42 @@
+.product-header-container {
+    height: 6rem;
+    background-color: var(--third-bg-color);
+}
+
+.product-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.product-header .product-header__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: #FFF;
+    line-height: 1;
+}
+
+.product-header__info p {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.product-header__info h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.product-header a {
+    display: flex;
+    align-items: center;
+}
+

@@ -1,0 +1,141 @@
+nav {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    width: 40vh;
+    background-color: #AAA;
+    transition: all .5s ease-in-out;
+    z-index: 3;
+}
+
+nav.disabled {
+    position: absolute;
+    right: -50vh;
+}
+
+nav .info {
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    background-color: var(--main-bg-color);
+    height: 25%;
+    padding: 0 1rem;
+}
+
+nav .info a {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 2.4rem;
+    font-weight: 700;
+    align-self: start;
+}
+
+nav .info .user-info{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: var(--main-bg-color);
+    align-self: end;
+}
+
+nav .info .user-logo {
+    color: var(--third-bg-color);
+    background-color: #FFF ;
+    margin: 0;
+}
+
+nav .info .user-welcome {
+    text-align: end;
+}
+
+nav .info .user-name {
+    color: var(--third-bg-color);
+}
+
+nav .info .user-welcome {
+    background-color: var(--main-bg-color);
+}
+
+nav .info .cerrar-sesion {
+    display: none;
+}
+
+.cerrar-sesion-mobile {
+    color: var(--third-bg-color);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: right;
+    justify-content: end;
+}
+
+.cerrar-sesion-mobile:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.info h3 {
+    align-self: flex-end;
+}
+
+.enlaces {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 75%;
+    padding: 1rem 1rem;
+}
+
+nav div {
+    height: 75%;
+    background-color: #FFF;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    text-align: right;
+}
+
+nav ul li a {
+    display: block;
+    color: var(--second-bg-color);
+    text-decoration: none;
+    border-bottom: 1px solid var(--third-bg-color);
+    padding: 0.5rem 1rem;
+    font-weight: 700;
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+}
+
+nav ul li:last-child a {
+    border-bottom: none;
+}
+
+nav .redes {
+    gap: 1.3rem;
+    align-items: flex-end;
+    justify-content: end;
+    padding: .2rem 1rem;
+}
+
+nav .redes a {
+    color: var(--third-bg-color);
+}
+
+.info .usuarioMobile {
+    height: 8.3rem;
+    align-self: flex-end;
+    padding: .5rem;
+}

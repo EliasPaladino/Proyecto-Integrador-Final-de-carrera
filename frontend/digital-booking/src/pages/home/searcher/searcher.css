@@ -1,0 +1,297 @@
+@import url("../../../styles/common.css");
+@import 'react-date-range/dist/styles.css'; 
+@import 'react-date-range/dist/theme/default.css'; 
+
+.searcher{
+    background-color: var(--second-bg-color);
+    font-weight: bold;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 180px;
+}
+
+.rdrDefinedRangesWrapper{
+    display: none;
+ }
+
+.searcher h1 {
+    font-family:  var(--main-font);
+    font-weight: 700;
+    font-size: 36px;
+    list-style: 42.19px;
+    margin: 10px 0px;
+}
+
+.searcher form {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.container-searcher{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.datepicker{
+    position: absolute !important;
+    left: 0px;
+    top: 40px;
+    z-index: 1;
+    font-family: var(--main-font);   
+    box-shadow: 0 5px 4px rgb(0 0 0 / 25%);
+    border-radius: 1rem;
+}
+
+.rdrWeekDay{
+    font-family: var(--main-font);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #383B58;
+}
+
+
+.rdrCalendarWrapper {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.rdrNextPrevButton {
+    background-color: white;
+}
+
+.rdrDateRangePickerWrapper{
+    position: relative;
+}
+
+.rdrDayNumber{
+    font-family: var(--main-font);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.rdrMonthAndYearWrapper{
+    position: absolute;
+    top: -10px;
+    padding: 0;
+    width: 100%;
+}
+
+.rdrMonthAndYearPickers{
+    display: none;
+}
+
+.rdrMonths{
+    justify-content: center;
+}
+
+.rdrMonthName{
+    font-family: var(--main-font);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.872566)
+}
+
+.datepicker-container{
+    position: relative;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: inline-flex;
+}
+
+.searcher-inputs {
+    width: 30vw;
+    padding-left: 40px;
+    padding-bottom: 7px;
+}
+
+.hide-icon{
+    padding-left: 10px !important;
+}
+
+.clearDate {
+    left: auto !important;
+    right: 10px;
+    cursor: pointer;
+    color: var(--main-bg-color) !important;
+}
+
+.searcher svg {
+    height: 20px;
+    position: absolute;
+    color: gray;
+    width: 20px;
+    top: 8px;
+    left: 10px;
+}
+
+.suggestions svg{
+    position: initial;
+    color: black;
+    margin: auto 0;
+}
+
+.suggestion-title{
+    font-family: var(--main-font);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-bottom: 0px;
+}
+
+.suggestion-subtitle{
+    font-family: var(--main-font);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #545776;
+    margin-top: 0px;
+}
+
+.suggestions .find-items{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.suggestion-li{
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+}
+
+.searcher-button {
+    background: var(--main-bg-color);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    width: 200px;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+    min-height: 40px;
+    cursor: pointer;
+}
+
+
+.input-icons{
+    align-items: start;
+    position: relative;
+}
+
+  
+  .no-suggestions {
+    color: white;
+    padding: 0.5rem;
+    position: absolute;
+  }
+  
+  .suggestions {
+    border: 1px solid #F3F1ED;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-top-width: 0;
+    list-style: none;
+    margin-top: 0;
+    max-height: 50vh;
+    overflow-y: auto;
+    padding-left: 0;
+    width: calc(343px + 1rem);
+    position: absolute;
+    color:black;
+    background-color: white;
+    z-index: 1;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  
+  .no-recommendations{
+    color: white;
+  }
+
+  .suggestions li {
+    padding: 10px 0.5rem;
+    margin: 0px 10px;
+  }
+  
+  .suggestion-active,
+  .suggestions li:hover {
+    background-color: #e5fbfa;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  
+  .suggestions li:not(:last-of-type) {
+    border-bottom: 1px solid var(--main-bg-color);
+  }
+  
+
+
+@media screen and (max-width: 580px) {
+    .searcher form {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .searcher-inputs {
+        width: 95vw;
+        padding-top: 6px;
+    }
+
+    .searcher-button {
+        width: 95vw;
+    }
+
+    .searcher h1 {
+        margin: 20px;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+    }
+
+    
+    .input-icons{
+        align-items: start;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .searcher h1 {
+        text-align: center;
+    }
+
+}
+
+    
+
+

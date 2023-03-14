@@ -1,0 +1,29 @@
+.menu {
+    display: none;
+}
+
+@media (min-width: 580px) {
+    .menu {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+    
+    .menu button {
+        display: block;
+        color: var(--main-bg-color);
+        background-color: #FFF;
+        font-size: 1.2rem;
+        height: 3.6rem;
+        font-weight: 700;
+        border-radius: 0.5rem;
+        border-width: 0.1rem;
+        border-color: var(--main-bg-color);
+    }
+
+    .menu button a {
+        color: var(--main-bg-color);
+        text-decoration: none;
+        padding: 1rem;
+    }
+}

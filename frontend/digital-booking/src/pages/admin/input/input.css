@@ -1,0 +1,7 @@
+.input-admin {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    background: #f9f9f9;
+    padding: 2rem;
+}
